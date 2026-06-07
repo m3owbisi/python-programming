@@ -1,0 +1,75 @@
+project
+subject/course
+standard/class
+division
+roll number
+name
+school/college name
+report
+question/topic
+introduction (selection of the project topic)
+- headlines
+i) points
+history
+modernity
+importance of topic
+1) points
+objectives of the project work
+*:-i aims and objectives of the study
+primary objectives:
+1) points
+secondary objectives:
+1) points
+ternary objectives:
+1) points
+project work methodology
+*:-i the goals and indicators in detail
+goal 1:
+indicator 1:
+- methodology
+1. points
+(i.) highlights
+(a.) notes
+observations
+*;i tables, graphs, coins
+table 1,graph 1, coin 1, 
+topics
+sources
+analysis of data
+results and conclusions
+page no
+date
+assignment/assessment/project/report
+question/topic
+what is?
+implementing?
+how to promote?
+indian knowledge system
+ancient and medieval indian coins
+what are/is indian coins/coinage?
+what are punch-marked coins?
+10pages information
+images 2pages on different types
+of emblems/symbols and about them,
+different shapes and aspects
+conclusion 1pages
+references
+times new roman
+font size 12
+1.5 paragraph spacing
+justified format
+cover page: topic name
+indian knowledge system
+introduction to indian coinage
+external assessment
+for semester II
+name
+class
+semester
+division
+roll number
+subject/course
+serial number
+date
+topic (practical,assignment,assessment)
+signature
