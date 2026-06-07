@@ -1,0 +1,3 @@
+MVI A, 32H
+STA 8050H
+HLT

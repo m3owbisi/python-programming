@@ -1,0 +1,7 @@
+print("Exercise 2")
+print("Exercise")
+print("Input")
+print("Tony is secretly a Superhero.")
+print("Ask him for his superhero name & show it on the terminal.")
+super_Hero_Name=input("what is tonys superhero name? ")
+print("tonys superhero name is "+super_Hero_Name)

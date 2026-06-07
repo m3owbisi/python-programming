@@ -1,0 +1,7 @@
+print("Hiral is my name.")
+print("My age is 19.")
+print("Hiral is my name.","My age is 19.") 
+print(23)
+print(32)
+print(25)
+print(34+35)
